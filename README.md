@@ -10,7 +10,7 @@ Refer to [Scrapy](https://docs.scrapy.org/en/latest/intro/install.html)
 
 #### Run the code
 
-This spider is based on the example code in the [Scrapy Tutorials](https://docs.scrapy.org/en/latest/intro/tutorial.html). To run the code:
+This spider is based on the example code in [Scrapy Tutorials](https://docs.scrapy.org/en/latest/intro/tutorial.html). To run the code:
 
 ```bash
 scrapy crawl newsina_spider
